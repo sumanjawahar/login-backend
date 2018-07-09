@@ -1,0 +1,26 @@
+{
+  "name": "loginmodule",
+  "version": "1.0.0",
+  "description": "login registration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "prakash",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.17.2",
+    "cors": "^2.8.4",
+    "express": "^4.15.4",
+    "express-jwt": "^5.3.0",
+    "jsonwebtoken": "^8.0.0",
+    "kerberos": "0.0.23",
+    "mongodb": "^2.0.55",
+    "mongoskin": "^2.1.0",
+    "nodemailer": "^4.1.0",
+    "q": "^1.5.0",
+    "url": "^0.11.0",
+    "uuid": "^3.1.0"
+  }
+}
